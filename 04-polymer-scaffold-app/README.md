@@ -28,8 +28,11 @@ To customize,
 Does not have (yet)
 
 * Tests
+* App Shell model
+* Native integration
 * Service worker
-* Caching
-* Mobile Web app / app shell like installation
+* Caching of app, data
 * different types of icons
-* No main CSS
+* No main 
+* No animations
+* very little material design
