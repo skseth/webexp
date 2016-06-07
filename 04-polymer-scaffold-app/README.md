@@ -36,3 +36,4 @@ Does not have (yet)
 * No main 
 * No animations
 * very little material design
+* Firefox manifest.webapp
