@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "browser-sync": "^2.7.7",
+    "connect-history-api-fallback": "^1.1.0"
+  },
+  "scripts": {
+    "start": "gulp serve"
+  },
+  "engines": {
+    "node": "~6.2.0",
+    "npm": "3.8.9"
+  }
+}
